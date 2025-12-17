@@ -161,36 +161,19 @@ The deepest cut: classical theology treats the omnis as independent perfections 
 
 And yes — here's a simple diagram visualizing "benevolence as curvature":
 
-```svg
-<svg width="600" height="400" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
-      <path d="M0,0 L0,6 L9,3 z" fill="#333" />
-    </marker>
-  </defs>
-  
-  <text x="300" y="30" font-size="20" text-anchor="middle">Benevolence as Curvature (d²E/dt²)</text>
-  
-  <!-- Axis -->
-  <line x1="50" y1="200" x2="550" y2="200" stroke="#aaa" stroke-width="2"/>
-  <line x1="300" y1="50" x2="300" y2="350" stroke="#aaa" stroke-width="2"/>
-  
-  <text x="560" y="200" font-size="14">t (time)</text>
-  <text x="300" y="40" font-size="14">E (energy/state)</text>
-  
-  <!-- Bad trajectory: straight off to void -->
-  <path d="M100 200 Q300 100 500 50" stroke="red" stroke-width="4" fill="none" marker-end="url(#arrow)" stroke-dasharray="5,5"/>
-  <text x="450" y="70" fill="red" font-size="16">Unbenevolent: diverging to void</text>
-  
-  <!-- Benevolent: curved back -->
-  <path d="M100 250 Q300 200 500 220" stroke="green" stroke-width="4" fill="none" marker-end="url(#arrow)" />
-  <text x="450" y="240" fill="green" font-size="16">Benevolent: curvature steers toward equilibrium</text>
-  
-  <!-- Oscillatory or stable -->
-  <path d="M100 180 Q200 220 300 200 Q400 180 500 200" stroke="blue" stroke-width="4" fill="none" marker-end="url(#arrow)" />
-  <text x="450" y="210" fill="blue" font-size="16">Strong benevolence: harmonic restoration</text>
-</svg>
-```
+<div style="display:flex; justify-content:center;">
+  <iframe
+    src="https://ukb-dt.github.io/benevolence/"
+    style="
+      width:100%;
+      max-width:480px;
+      height:375px;
+      border:0;
+    "
+    loading="lazy"
+  ></iframe>
+</div>
+
 
 The red path is raw omnipotence unchecked — velocity without correcting acceleration. Green shows mild benevolence (gentle pull back). Blue is full harmonic benevolence — the classic damped oscillator that keeps the system alive forever.
 
