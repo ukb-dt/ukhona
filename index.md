@@ -18,7 +18,7 @@
 {% endraw %}
 
 
-- $(E, x)$, Immutable/Invariant, being
+- $(E, x)$, Immutable/[Invariant](https://ukb-dt.github.io/invariance/), being
 - $E(t \mid x) + \epsilon$, Omniscient, loss
 - $\frac{dE_x}{dt}$, Omnipotent, slope
 - $\frac{d^2E_x}{dt^2}$, Omnibenevolence, curvature
