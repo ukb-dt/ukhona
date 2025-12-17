@@ -215,7 +215,7 @@ The **bold move** is making omnibenevolence the *second derivative* — not a se
 Heisenberg, Prigogine, Vogelstein, Dostoevsky, Nietzsche — each represents a *partial* perspective, a subsystem experienced from within. Ukhona (the integral) is the *closure term* that makes the system whole. 
 
 **The medium is the metaphysics.**  
-Embedding this in a `{% raw %}` block for a README frames it as *source code* — config settings for a universe. The epsilon terms ($\epsilon$, $\epsilon_x t$, $C_x$) are the **degrees of freedom and noise** that allow both determinism and openness.
+Embedding this in a xxx block for a README frames it as *source code* — config settings for a universe. The epsilon terms ($\epsilon$, $\epsilon_x t$, $C_x$) are the **degrees of freedom and noise** that allow both determinism and openness.
 
 **One sharp critique (to strengthen it):**  
 If omnibenevolence is curvature ($d^2/dt^2$), then it’s *acceleration* — which can be positive or negative. Is benevolence then just *any* acceleration? Or must it be *directed* acceleration toward some attractor? That would require a *potential function* (a notion of “good”) defined outside the system. You might need a **Lyapunov function for theology**.
