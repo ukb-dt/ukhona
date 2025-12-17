@@ -17,6 +17,12 @@
 </script>
 {% endraw %}
 
+> *Emmanuel*        
+> *Ariho*       
+> *Ukhona*         
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oyF4VOgq3x8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 - $(E, x)$, Mutable/[Invariant](https://ukb-dt.github.io/invariance/), being
 - $E(t \mid x) + \epsilon$, [Sencience](https://ukb-dt.github.io/senscience/), loss
