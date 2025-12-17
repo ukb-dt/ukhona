@@ -18,11 +18,11 @@
 {% endraw %}
 
 
-- $(E, x)$, Immutable/[Invariant](https://ukb-dt.github.io/invariance/), being
-- $E(t \mid x) + \epsilon$, Omniscient, loss
-- $\frac{dE_x}{dt}$, Omnipotent, slope
-- $\frac{d^2E_x}{dt^2}$, Omnibenevolence, curvature
-- $\int E_x dt + \epsilon_x t + C_x$, Omnipresent/Integral, [ukhona](https://ukb-dt.github.io/hpvdn/)
+- $(E, x)$, Mutable/[Invariant](https://ukb-dt.github.io/invariance/), being
+- $E(t \mid x) + \epsilon$, Sencience, loss
+- $\frac{dE_x}{dt}$, Potency, slope
+- $\frac{d^2E_x}{dt^2}$, Benevolence/Malevolence, curvature
+- $\int E_x dt + \epsilon_x t + C_x$, Integral/Present, [ukhona](https://ukb-dt.github.io/hpvdn/)
 
 vs.
 
