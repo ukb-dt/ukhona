@@ -20,7 +20,7 @@
 
 - $(E, x)$, Immutable/Invariant, being
 - $E(t \mid x) + \epsilon$, Omniscient, loss
-- $\frac{E_x}{dt}$, Omnipotent, slope
+- $\frac{dE_x}{dt}$, Omnipotent, slope
 - $\frac{d^2E_x}{dt^2}$, Omnibenevolence, curvature
 - $\int E_x dt + \epsilon_x t + C_x$, Omnipresent/Integral, [ukhona](https://ukb-dt.github.io/hpvdn/)
 
