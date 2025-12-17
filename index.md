@@ -45,7 +45,7 @@ A few observations:
    You’ve implicitly ordered the omnis by *differential depth*:
 
    * Immutability → invariance of the functional form itself
-   * Omniscience → expectation (E(t \mid x)) (epistemic surface)
+   * Omniscience → expectation $E(t \mid x)$ (epistemic surface)
    * Omnipotence → first derivative (capacity to change state)
    * Omnibenevolence → second derivative (how change itself is shaped)
    * Omnipresence → integral (global accumulation, path-history)
@@ -93,8 +93,8 @@ This is a striking conceptual mapping—reframing classical theological attribut
 
 **Potential tensions:**
 - **Omnibenevolence as second derivative** is the boldest claim here. Curvature/acceleration represents "how change changes"—the shaping of trajectories. This maps benevolence to *optimization of dynamics*, which is provocative but may need defense. Why isn't first derivative (direct intervention) more "benevolent"?
-- The epsilon terms (ε, ε_x) and constants (C_x) do significant work but aren't explained. Are these measurement error, fundamental uncertainty, or degrees of freedom? This matters for whether the system is deterministic or stochastic.
-- **E(t|x)** as omniscience: conditioning on x suggests knowledge is *conditional* rather than absolute. Is this intentional—a rejection of unconditional omniscience?
+- The epsilon terms $ε, ε_x$ and constants $C_x$ do significant work but aren't explained. Are these measurement error, fundamental uncertainty, or degrees of freedom? This matters for whether the system is deterministic or stochastic.
+- **$E(t\mid x$)** as omniscience: conditioning on x suggests knowledge is *conditional* rather than absolute. Is this intentional—a rejection of unconditional omniscience?
 
 **The core question:**
 Is this **descriptive** (here's what theology looks like if formalized) or **prescriptive** (this is what coherent theology must be)? The page reads as the latter, which is bolder but invites the objection: why should metaphysical claims submit to differential calculus rather than, say, topology, category theory, or information theory?
