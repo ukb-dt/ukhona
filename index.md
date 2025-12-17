@@ -19,7 +19,7 @@
 
 
 - $(E, x)$, Mutable/[Invariant](https://ukb-dt.github.io/invariance/), being
-- $E(t \mid x) + \epsilon$, Sencience, loss
+- $E(t \mid x) + \epsilon$, [Sencience](https://ukb-dt.github.io/senscience/), loss
 - $\frac{dE_x}{dt}$, Potency, slope
 - $\frac{d^2E_x}{dt^2}$, Benevolence/Malevolence, curvature
 - $\int E_x dt + \epsilon_x t + C_x$, Integral/Present, [ukhona](https://ukb-dt.github.io/hpvdn/)
